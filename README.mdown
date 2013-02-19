@@ -32,6 +32,7 @@ Two new methods are available for adding/removing slides, `slider.addSlide()` an
 
 ## Examples
 
+- [Skubes Basic Slider] (./demo/basic stripped down.html)
 - [Basic Slider](http://flexslider.woothemes.com/)
 - [Slider w/thumbnail controlNav pattern](http://flexslider.woothemes.com/thumbnail-controlnav.html)
 - [Slider w/thumbnail slider](http://flexslider.woothemes.com/thumbnail-slider.html)
