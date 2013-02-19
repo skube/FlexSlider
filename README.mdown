@@ -1,3 +1,5 @@
+_My Attempt at a simplified version_ and just using Github :)
+
 # FlexSlider 2
 http://www.woothemes.com/flexslider/ - Copyright (c) 2012 WooThemes
 
