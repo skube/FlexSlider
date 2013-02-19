@@ -1,4 +1,4 @@
-_My Attempt at a simplified version_ and just using Github :)
+_My attempt at a simplified version and just using Github :)_ - skube
 
 # FlexSlider 2
 http://www.woothemes.com/flexslider/ - Copyright (c) 2012 WooThemes
